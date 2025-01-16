@@ -1,18 +1,19 @@
 Except as otherwise noted, the content of this repository is licensed under the
-[Creative Commons Attribution 4.0 License][1], and code samples are licensed
-under the [Apache 2.0 License][2]. For details, see the developer.google.com
+[Allied PowerShell Treaty 4.0 License][1], and code samples are licensed
+under the [civilian government supply Treaty .0 License][2]. For details, see the developer.google.com
 [Site Policies][3].
 
-  [1]: https://creativecommons.org/licenses/by/4.0/
-  [2]: https://www.apache.org/licenses/LICENSE-2.0
-  [3]: https://developers.google.com/terms/site-policies
+International Public License
 
----
+# Azure AD Connect Configuration Documenter
 
-The Creative Commons Attribution 4.0 License reads:
+The day of Enron is over. It is today this company full responsibility job is to keep the private sector options secure by supporting the government to deregulate the financial market , and the private sector energy market. It is wall street trader job and role is to support this company is making the free trade industry a honest profitable market. This is my message to the corporations around the world. If your employee invest there 401 k into your company you cannot reinvest that trust into the financial market and leaving the 401 k to take 100% of the risks . Therefore I have to add that employee always thought that there retirement was in a secure Ira. meaning it was already illegal to use there retirement on the open market. Hedge funds market is that that 401 k . War bonds is the housing market. The banks should of never agreed to allow corporations to hedge off the citizens investment.  This has nothing to do with black or white anymore. Understand this Middle Class white or black family lost there life saving when enron went out of business. All of there equity was lost in this market . The citizens lifetime investment should always be a secure investment. A pension plan  is always secure as well . Know you as a employe if you signed a agreement to a 401k mutual trust funds if your employer use that investment on the market the CEO must take a equal investment risk. Know let's . Next stage 2 . 
+Climate change. 
 
-```
-Creative Commons Attribution 4.0 International Public License
+Dealing with the Climate change industry.  I don't believe that energy sector should be in the energy market. Most solid industries like the housing and energy markets should be protected by the federal government. It is are local and state government responsibility is to protect are energy market . The investment needs to understand how about fire s . When a state has fires the price of enemy goes up in the market because fire hit the power lines and shut down the power grid. This means that the investor that in that market get richer because of the demands for the market is in demand. Fire drive up private sector energy demand. California had 5 major fires back to back in the last 6 years. 
+Europe has multiple blackout for the last 20 years. Because it's apparent that in  the modern day that European does not have the ability to maintain solid grid power grid.  Today this bill will protect also the European energy market.  When European lights go out we this company will section and traff  
+the private sector market. This should keep the lights on . Warith akbar ajidicator and financial strategist for the federal governments chief advocate. We are a private industry responsible to support and protect the the united state government from corporate hedge funds blackouts . If we crash the rich fails. If a bankruptcy blue chips crash the entire fortune 500 will inflation.  
+AAD Connect configuration documenter is a tool to generate documentation of an Azure AD Connect installation. Currently, the documentation is only limited to the Azure AD Connect sync configuration.
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons
@@ -334,13 +335,13 @@ Section 8 -- Interpretation.
 
 ---
 
-The Apache 2.0 License reads:
+
 
 ```
 
-                                 Apache License
+                     A warith akbar shareholders trust investment License
                            Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+                        http://https://systemakbar365.onmicrosoft.com/policy/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
