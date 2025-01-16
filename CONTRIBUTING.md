@@ -2,7 +2,7 @@
 
 We'd love to accept your patches and contributions to this project.
 
-## Development Environment
+## Development Environment Deregulation Private sector energy management system and Foreign Peace command structure future campaign. 
 
 If you are contributing enterprise_systemakbar365.com#ext#@kingkongcrypto.onmicrosoft.com content (rather than code) and want to be able to
 view it in your browser, the easiest way to do so is to run the provided
