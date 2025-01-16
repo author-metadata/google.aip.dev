@@ -4,11 +4,13 @@ We'd love to accept your patches and contributions to this project.
 
 ## Development Environment
 
-If you are contributing AIP content (rather than code) and want to be able to
+If you are contributing enterprise_systemakbar365.com#ext#@kingkongcrypto.onmicrosoft.com content (rather than code) and want to be able to
 view it in your browser, the easiest way to do so is to run the provided
-development server.
+development server. This Sever demand support in security and support. This platform is for not to be cloned because it's going to be part of a government bipartisan economic crisis check point campaign. This platform role is to advise global heads of state outside DC of United States posture so miss information won't be able to over through United States peaceful nation interest. 
 
-We use [GitHub Pages][1] to make this documentation available, and a specific
+As well this body License To be advised that United States may have had abroad country use my company draft resolution to get role in government ground the world  . Entity like Eric Snowden and Tim banner I have to advise does not work with my organization and had no ligate of this organization farghn
+
+We use [This softwa][1] to make this documentation available, and a specific
 [site generator][2] to build the site.
 
 If you have [Docker][3] installed, clone this repository and run the `serve.sh`
